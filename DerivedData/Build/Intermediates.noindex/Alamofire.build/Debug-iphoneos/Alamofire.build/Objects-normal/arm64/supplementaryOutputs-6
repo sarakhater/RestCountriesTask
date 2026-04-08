@@ -1,0 +1,37 @@
+{
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/Combine.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/Concurrency.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/EventMonitor.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/MultipartFormData.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/MultipartUpload.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.swiftdeps"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "fd5f2bea7ac34c684b1b6d5d2033a8f9fc70e67987020bfa93f8e5d397acf764"
+    }
+  ],
+  "containerPath" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

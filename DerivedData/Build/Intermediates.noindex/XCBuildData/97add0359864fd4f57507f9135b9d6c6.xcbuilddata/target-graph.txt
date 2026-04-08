@@ -1,0 +1,11 @@
+Target dependency graph (5 targets)
+Target 'RestCountriesTests' in project 'RestCountries'
+➜ Explicit dependency on target 'RestCountries' in project 'RestCountries'
+Target 'RestCountries' in project 'RestCountries'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+Target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire_Alamofire' in project 'Alamofire'
+Target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire_Alamofire' in project 'Alamofire'
+Target 'Alamofire_Alamofire' in project 'Alamofire' (no dependencies)

@@ -1,0 +1,37 @@
+{
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/AlamofireExtended.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftdeps"
+  }
+}

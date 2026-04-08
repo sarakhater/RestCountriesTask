@@ -1,0 +1,32 @@
+{
+  "source": "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Views/CountrySearchSheet.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add country",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search name or code",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 46
+        }
+      }
+    ]
+  },
+  "version": 1
+}

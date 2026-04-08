@@ -1,0 +1,37 @@
+{
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/ResponseSerialization.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ResponseSerialization.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ResponseSerialization.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ResponseSerialization.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ResponseSerialization.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ResponseSerialization.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/RetryPolicy.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RetryPolicy.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RetryPolicy.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RetryPolicy.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RetryPolicy.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/RetryPolicy.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ServerTrustEvaluation.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ServerTrustEvaluation.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ServerTrustEvaluation.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ServerTrustEvaluation.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ServerTrustEvaluation.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLEncodedFormEncoder.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLEncodedFormEncoder.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLEncodedFormEncoder.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLEncodedFormEncoder.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/URLEncodedFormEncoder.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/SourcePackages/checkouts/Alamofire/Source/Features/Validation.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Validation.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Validation.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Validation.dia",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Validation.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Validation.swiftdeps"
+  }
+}

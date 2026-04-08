@@ -1,0 +1,169 @@
+{
+  "" : {
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountries-primary.dia",
+    "emit-module-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountries-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountries-primary-emit-module.dia",
+    "pch" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountries-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountries-primary.swiftdeps"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/AppConstants.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/AppConstants~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Models/CountryDTO.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDTO~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Models/CountryDisplay.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDisplay~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Persistence/CachedCountry.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CachedCountry~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Persistence/PinnedCountry.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/PinnedCountry~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/RestCountriesApp.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/RestCountriesApp~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Services/CountryAPIService.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryAPIService~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Services/CountryRepository.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryRepository~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Services/LocationCountryService.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/LocationCountryService~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/ViewModels/CountryHomeViewModel.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeViewModel~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Views/CountryDetailView.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryDetailView~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Views/CountryFlagImage.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryFlagImage~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Views/CountryHomeView.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountryHomeView~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Views/CountrySearchSheet.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/CountrySearchSheet~partial.swiftmodule"
+  },
+  "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Views/Theme.swift" : {
+    "const-values" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme.d",
+    "diagnostics" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme.dia",
+    "index-unit-output-path" : "/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme.o",
+    "llvm-bc" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme.bc",
+    "object" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme.o",
+    "swift-dependencies" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/appleera1/Desktop/myFiles/task/RestCountries/DerivedData/Build/Intermediates.noindex/RestCountries.build/Debug-iphonesimulator/RestCountries.build/Objects-normal/x86_64/Theme~partial.swiftmodule"
+  }
+}

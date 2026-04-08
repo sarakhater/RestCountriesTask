@@ -1,0 +1,80 @@
+{
+  "source": "/Users/appleera1/Desktop/myFiles/task/RestCountries/RestCountries/Views/CountryHomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Preparing…",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "My countries",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Updating catalog…",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Up to %lld countries",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap a row for capital and currency. Swipe to remove.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "No countries yet",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "We’ll suggest one from your location (or a default) after the catalog loads.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add country",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 176
+        }
+      }
+    ]
+  },
+  "version": 1
+}
