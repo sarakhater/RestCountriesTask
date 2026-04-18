@@ -23,7 +23,7 @@ jobs:
           xcodebuild test \
           -scheme RestCountries \
           -sdk iphonesimulator \
-          -destination 'platform=iOS Simulator,name=iPhone 15,OS=17.5'
+          -destination 'platform=iOS Simulator'
           
       - name: List Simulators
         run: xcrun simctl list devices
