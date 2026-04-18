@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4F360BE12F84738E00CB8D92 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = A1B2C3D22F8467E1006A3921 /* Alamofire */; };
+		4F53AA382F85B78300293C36 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4F53AA372F85B78300293C36 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -21,11 +22,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F53AA372F85B78300293C36 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4FB4D10F2F8467E0006A3921 /* RestCountries.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestCountries.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1B2C3D32F8467E1006A3921 /* RestCountriesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RestCountriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		4F6E073B2F93ACE500A425EB /* .github */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = .github;
+			sourceTree = "<group>";
+		};
 		4FB4D1112F8467E0006A3921 /* RestCountries */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = RestCountries;
@@ -60,9 +67,11 @@
 		4FB4D1062F8467E0006A3921 = {
 			isa = PBXGroup;
 			children = (
+				4F6E073B2F93ACE500A425EB /* .github */,
 				4FB4D1112F8467E0006A3921 /* RestCountries */,
 				A1B2C3D42F8467E1006A3921 /* RestCountriesTests */,
 				4FB4D1102F8467E0006A3921 /* Products */,
+				4F53AA372F85B78300293C36 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -115,6 +124,7 @@
 				A1B2C3D72F8467E1006A3921 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
+				4F6E073B2F93ACE500A425EB /* .github */,
 				A1B2C3D42F8467E1006A3921 /* RestCountriesTests */,
 			);
 			name = RestCountriesTests;
@@ -178,6 +188,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F53AA382F85B78300293C36 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
