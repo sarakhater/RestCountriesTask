@@ -1,0 +1,24 @@
+//
+//  ios-ci.yml
+//  RestCountries
+//
+//  Created by Sara on 18/04/2026.
+//
+
+name: iOS CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Build App
+        run: |
+          xcodebuild -scheme RestCountries -sdk iphonesimulator build

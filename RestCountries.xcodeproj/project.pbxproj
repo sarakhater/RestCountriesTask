@@ -28,6 +28,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		4F6E073B2F93ACE500A425EB /* .github */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = .github;
+			sourceTree = "<group>";
+		};
 		4FB4D1112F8467E0006A3921 /* RestCountries */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = RestCountries;
@@ -62,6 +67,7 @@
 		4FB4D1062F8467E0006A3921 = {
 			isa = PBXGroup;
 			children = (
+				4F6E073B2F93ACE500A425EB /* .github */,
 				4FB4D1112F8467E0006A3921 /* RestCountries */,
 				A1B2C3D42F8467E1006A3921 /* RestCountriesTests */,
 				4FB4D1102F8467E0006A3921 /* Products */,
@@ -118,6 +124,7 @@
 				A1B2C3D72F8467E1006A3921 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
+				4F6E073B2F93ACE500A425EB /* .github */,
 				A1B2C3D42F8467E1006A3921 /* RestCountriesTests */,
 			);
 			name = RestCountriesTests;
