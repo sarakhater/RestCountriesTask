@@ -11,5 +11,5 @@ enum AppConstants {
     
     static let defaultCountryAlpha2Code = "EG"
 
-    static let maxPinnedCountries = 5
+    static let maxPinnedCountries = 10
 }
